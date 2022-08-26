@@ -31,6 +31,16 @@ body {
   text-decoration: none;
 }
 
+.logo-foot {
+  color: #ffffff;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
 .logo-part {
   color: #2196f3;
 }
@@ -51,6 +61,9 @@ body {
   color: var(--hover-color);
 }
 
+.navigation-bar.condition {
+  color: var(--hover-color);
+}
 /* Contacts */
 .contacts :hover,
 .contacts :focus {
@@ -185,6 +198,9 @@ body {
 }
 
 /* --------------Footer---------------- */
+.foot {
+  background-color: #2f303a;
+}
 
 .contacts-center {
   text-decoration: none;
